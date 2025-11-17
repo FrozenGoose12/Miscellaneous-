@@ -36,6 +36,7 @@ def Pcortex(): #animal naming verbal fluency test
         print("Animals named:", ", ".join(animals))
 
 if __name__ == "__main__":
-    Pcortex()
+    Pcortex() #does not account for typing speed
+
 
 
