@@ -1,6 +1,6 @@
-import time
+import time 
 
-def Pcortex():
+def Pcortex(): #animal naming verbal fluency test
     enter = 0
     animals = set()
     while enter != "":
@@ -37,4 +37,5 @@ def Pcortex():
 
 if __name__ == "__main__":
     Pcortex()
+
 
